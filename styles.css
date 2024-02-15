@@ -1,0 +1,12 @@
+body {
+	background-color: powderblue;
+}
+h1 {
+	color: grey;
+	border: 5px solid purple;
+}
+p {
+	margin: 20px;
+	font-family: "Papyrus";
+	font-size:32px;
+}
